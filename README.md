@@ -4,4 +4,5 @@ Project #1: Band Name Generator
 Project #2: Tip Calculator  
 Project #3: Treasure Island  
 Project $4: Rock, Paper, Scissors  
-Project #5: 
+Project #5: Password Generator  
+Project #6: 
