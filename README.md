@@ -6,4 +6,5 @@ Project #3: Treasure Island
 Project $4: Rock, Paper, Scissors  
 Project #5: Password Generator  
 Project #6: Escaping the Maze  
-Project #7:
+Project #7: Hangman  
+Project #8:
