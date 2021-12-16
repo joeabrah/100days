@@ -8,4 +8,5 @@ Project #5: Password Generator
 Project #6: Escaping the Maze  
 Project #7: Hangman  
 Project #8: Caesar Cipher   
-Project #9: 
+Project #9: Secret Auction   
+Project #10: 
