@@ -9,4 +9,5 @@ Project #6: Escaping the Maze
 Project #7: Hangman  
 Project #8: Caesar Cipher   
 Project #9: Secret Auction   
-Project #10: 
+Project #10: Calculator   
+Project #11: 
